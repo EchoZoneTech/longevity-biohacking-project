@@ -62,7 +62,7 @@ Start with a 16:8 pattern - that's 16 hours of fasting with an 8-hour eating win
 - Break your fast with nutrient-dense whole foods
 - Gradually work up to longer fasting periods if comfortable
 
-**The Science:** Studies show that fasting triggers a 300% increase in human growth hormone in men and a 1,300% increase in women, promoting fat loss and muscle gain while you age."
+**The Science:** Research published in the Journal of Clinical Investigation shows that fasting triggers significant increases in human growth hormone, promoting fat loss and muscle preservation as we age."
 
 ---
 
@@ -74,7 +74,7 @@ Start with a 16:8 pattern - that's 16 hours of fasting with an 8-hour eating win
 
 This practice is based on the principle of hormesis - the idea that mild stressors can make you stronger. Cold exposure activates brown adipose tissue, which burns calories to generate heat, and triggers the production of cold shock proteins that protect your brain and enhance cognitive function.
 
-Research from the University of Copenhagen shows that regular cold exposure can:
+Research from Søberg and colleagues at the University of Copenhagen (2021) shows that regular cold exposure can:
 - Boost metabolism by up to 16%
 - Increase mitochondrial density
 - Enhance immune function
@@ -188,7 +188,7 @@ Research published in the Journal of the American College of Cardiology shows th
 - Yoga, tai chi, or dedicated stretching
 - Reduces injury risk and maintains mobility
 
-**The Data:** A 2018 study tracking 122,000 people found that those with the highest cardiorespiratory fitness had the lowest mortality risk - even better than those without traditional risk factors like diabetes or hypertension.
+Research published in JAMA Network Open (Mandsager et al., 2018) tracking 122,000 people found that those with the highest cardiorespiratory fitness had the lowest mortality risk - even better than those without traditional risk factors like diabetes or hypertension.
 
 Remember: something is always better than nothing. Start where you are."
 
@@ -259,10 +259,11 @@ Thanks for watching, and I'll see you in the next video."
 
 1. Ohsumi, Y. (2016). Nobel Prize in Physiology or Medicine - Autophagy mechanisms
 2. de Cabo, R., & Mattson, M. P. (2019). Effects of Intermittent Fasting on Health, Aging, and Disease. New England Journal of Medicine.
-3. Søberg, S., et al. (2021). Altered brown fat thermoregulation and enhanced cold-induced thermogenesis in young, healthy, winter-swimming men. Cell Reports Medicine.
-4. Rajman, L., et al. (2018). Therapeutic Potential of NAD-Boosting Molecules. Cell Metabolism.
-5. Walker, M. (2017). Why We Sleep: Unlocking the Power of Sleep and Dreams.
-6. Mandsager, K., et al. (2018). Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults. JAMA Network Open.
+3. Ho, K. Y., et al. (1988). Fasting enhances growth hormone secretion and amplifies the complex rhythms of growth hormone secretion in man. Journal of Clinical Investigation.
+4. Søberg, S., et al. (2021). Altered brown fat thermoregulation and enhanced cold-induced thermogenesis in young, healthy, winter-swimming men. Cell Reports Medicine.
+5. Rajman, L., et al. (2018). Therapeutic Potential of NAD-Boosting Molecules. Cell Metabolism.
+6. Walker, M. (2017). Why We Sleep: Unlocking the Power of Sleep and Dreams.
+7. Mandsager, K., et al. (2018). Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults. JAMA Network Open.
 
 ---
 
