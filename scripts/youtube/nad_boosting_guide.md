@@ -2,7 +2,7 @@
 
 ## Video Metadata
 
-**Title:** NAD+ Boosting: The Complete Guide to This Anti-Aging Molecule
+**Title:** NAD+ Boosting: Complete Anti-Aging Molecule Guide
 
 **Description:** 
 Learn everything about NAD+, the crucial molecule that declines as we age. This comprehensive guide covers what NAD+ is, why it matters for longevity, and the most effective strategies to boost your levels including NMN, NR supplements, diet, and lifestyle changes. Science-backed protocols you can start today.

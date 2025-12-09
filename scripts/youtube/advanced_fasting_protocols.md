@@ -2,7 +2,7 @@
 
 ## Video Metadata
 
-**Title:** Advanced Fasting Protocols: Beyond 16:8 for Maximum Longevity
+**Title:** Advanced Fasting Protocols: Beyond 16:8 for Longevity
 
 **Description:** 
 Ready to level up your fasting game? This comprehensive guide covers advanced fasting protocols including 24-hour fasts, alternate-day fasting, 5-day fasting mimicking diet, and extended fasts. Learn the science of autophagy, metabolic switching, and cellular rejuvenation with practical protocols, safety guidelines, and what to expect at each fasting duration.

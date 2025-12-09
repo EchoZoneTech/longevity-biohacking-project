@@ -2,7 +2,7 @@
 
 ## Video Metadata
 
-**Title:** 5 Powerful Biohacking Techniques to Add Years to Your Life | Longevity Science Explained
+**Title:** 5 Biohacks to Add Years to Your Life | Longevity Science
 
 **Description:** 
 Discover the science-backed biohacking strategies that could help you live longer and healthier. In this video, we explore five evidence-based longevity techniques including intermittent fasting, cold exposure, NAD+ optimization, sleep optimization, and exercise protocols. Learn how to implement these practical biohacks into your daily routine.
