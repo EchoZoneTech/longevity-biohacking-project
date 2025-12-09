@@ -257,12 +257,14 @@ Thanks for watching, and I'll see you in the next video."
 
 ## Research Citations
 
+**Note:** Citations include both peer-reviewed journal articles and authoritative books. Journal articles include volume, issue, and page numbers where available for verification.
+
 1. Ohsumi, Y. (2016). Autophagy - an intracellular recycling system. Nobel Prize in Physiology or Medicine 2016. Nobel Media AB.
 2. de Cabo, R., & Mattson, M. P. (2019). Effects of Intermittent Fasting on Health, Aging, and Disease. New England Journal of Medicine, 381(26), 2541-2551.
 3. Ho, K. Y., et al. (1988). Fasting enhances growth hormone secretion and amplifies the complex rhythms of growth hormone secretion in man. Journal of Clinical Investigation, 81(4), 968-975.
 4. Søberg, S., et al. (2021). Altered brown fat thermoregulation and enhanced cold-induced thermogenesis in young, healthy, winter-swimming men. Cell Reports Medicine, 2(10), 100408.
 5. Rajman, L., Chwalek, K., & Sinclair, D. A. (2018). Therapeutic Potential of NAD-Boosting Molecules: The In Vivo Evidence. Cell Metabolism, 27(3), 529-547.
-6. Walker, M. (2017). Why We Sleep: Unlocking the Power of Sleep and Dreams. Scribner.
+6. Walker, M. (2017). Why We Sleep: Unlocking the Power of Sleep and Dreams. Scribner. [Authoritative book by UC Berkeley neuroscientist summarizing sleep research]
 7. Mandsager, K., et al. (2018). Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults Undergoing Exercise Treadmill Testing. JAMA Network Open, 1(6), e183605.
 
 ---

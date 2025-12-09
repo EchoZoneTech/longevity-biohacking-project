@@ -203,5 +203,5 @@ When creating new scripts:
 
 ---
 
-**Last Updated:** 2025-12-09  
+**Last Updated:** December 2025  
 **Maintained By:** Longevity Biohacking Project Team
