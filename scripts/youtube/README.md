@@ -25,6 +25,27 @@ A complete, production-ready script for an introductory video covering 5 core lo
 **Target Audience:** People interested in health optimization and longevity  
 **Content Style:** Science-backed, accessible, actionable
 
+### `nad_boosting_guide.md`
+A comprehensive deep-dive into NAD+ optimization for anti-aging. Covers the science of NAD+, why it declines with age, and practical strategies including NMN vs NR supplements, natural boosting methods, diet, and lifestyle strategies.
+
+**Duration:** ~14 minutes  
+**Target Audience:** Health enthusiasts interested in cellular health and supplements  
+**Content Style:** Scientific, detailed, practical protocols
+
+### `sleep_optimization_masterclass.md`
+An ultimate guide to optimizing sleep for longevity. Covers sleep science, circadian rhythm hacking, temperature optimization, light exposure protocols, supplement stacks, bedroom environment, and sleep tracking.
+
+**Duration:** ~16 minutes  
+**Target Audience:** Anyone seeking to improve sleep quality for health and longevity  
+**Content Style:** Comprehensive, protocol-focused, science-backed
+
+### `advanced_fasting_protocols.md`
+Advanced fasting strategies beyond basic intermittent fasting. Covers 24-hour fasts (OMAD), alternate-day fasting, 48-72 hour extended fasts, and the 5-day fasting mimicking diet, with detailed safety guidelines and progressive protocols.
+
+**Duration:** ~16 minutes  
+**Target Audience:** Experienced fasters seeking advanced longevity protocols  
+**Content Style:** Detailed, safety-focused, progressive implementation
+
 ### `script_template.md`
 A reusable template for creating new video scripts. Use this to maintain consistency across your video content.
 
